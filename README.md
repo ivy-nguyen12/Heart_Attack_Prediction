@@ -68,9 +68,6 @@ This dataset contains **24 health and demographic features** organized into four
 **Overall Heart Attack Risk Distribution:**
 ![Risk Pie Chart](Notebooks/risk_distribution_pie.png)
 
-**Feature Importance from Random Forest:**
-![Feature Importance](Notebooks/feature_importance_rf.png)
-
 ## Results & Key Insights
 - **SVM outperformed** other models on the global dataset (~64% test accuracy)
 - **KNN was most effective** for Italy and Japan; accuracy up to ~66%
