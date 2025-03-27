@@ -12,7 +12,7 @@ Key results include:
 - Key features varied by country, highlighting the need for regional strategies
 
 ## Dataset
-- **Source:** AI-generated simulated dataset
+- **Source:** [Heart Attack Prediction Dataset on Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset)
 - **Size:** 8,763 records; 24 features in original data, 52 after dummy encoding
 - **Scope:** Includes patients across multiple countries and continents
 - **Two Versions:**
